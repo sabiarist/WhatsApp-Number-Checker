@@ -4,9 +4,9 @@ import time
 from tqdm import tqdm  # Import de tqdm pour la barre de progression
 
 # API Config
-ACCESS_TOKEN = "EABf2OPuv6bsBOyqAJAKpHpZACFIRrCldSWwrij86lsZCS5T5CE3f7QLsFgsHeg3KZBkdzubpnZBKU5FfOFXOZCAyBYaJFjESVNX3fea0TIj0ZC6mnC0IM8PSolQ8yWlalisADUWbn32P73mPCiJqbDwlAE61sJnLAgfSzSQKA9vUGlIdzvq44bzYa9gkC49XBhdZCh6a3FyfJoASmov39S7sOZAOu6cZD"
+ACCESS_TOKEN = ""
 VERSION = "v21.0"
-PHONE_NUMBER_ID = "495617853624861"
+PHONE_NUMBER_ID = ""
 
 # CSV file paths
 INPUT_FILE = "phone_numbers.csv"
